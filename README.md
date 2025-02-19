@@ -1,1 +1,1 @@
-# demo-first-action
+# 01-github-actions-demo-project
